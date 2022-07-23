@@ -1,0 +1,1 @@
+Picture-frame 0 160 64 341 271

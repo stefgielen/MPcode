@@ -1,0 +1,26 @@
+<annotation>
+    <folder>CustCNN</folder>
+    <filename>6e7d46b6b101db82_jpg.rf.09e0e1b05dc15af141d01050c9ee3e7d.jpg</filename>
+    <path>/Users/stefgielen/Documents/school 2021-2022/thesis/Python_Workspace/CustCNN/6e7d46b6b101db82_jpg.rf.09e0e1b05dc15af141d01050c9ee3e7d.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>416</width>
+        <height>416</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>picture frame</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>99</xmin>
+            <ymin>43</ymin>
+            <xmax>346</xmax>
+            <ymax>364</ymax>
+        </bndbox>
+    </object>
+</annotation>
